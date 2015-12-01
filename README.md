@@ -1,17 +1,17 @@
-°²×°Ç°ĞèÒªÒÑ¾­°²×°ºÃ»ù±¾µÄ±àÒëËùĞèµÄ»·¾³£¬±ÈÈçmake¡¢gcc¡¢autoconfµÈ¡£
+å®‰è£…å‰éœ€è¦å·²ç»å®‰è£…å¥½åŸºæœ¬çš„ç¼–è¯‘æ‰€éœ€çš„ç¯å¢ƒï¼Œæ¯”å¦‚makeã€gccã€autoconfç­‰ã€‚
 
-°²×°iftop»¹ĞèÒª°²×°libpcapºÍlibcurses¡£
+å®‰è£…iftopè¿˜éœ€è¦å®‰è£…libpcapå’Œlibcursesã€‚
 
-CentOSÉÏ°²×°ËùĞèÒÀÀµ°ü£º
+CentOSä¸Šå®‰è£…æ‰€éœ€ä¾èµ–åŒ…ï¼š
 
 yum install flex byacc  libpcap ncurses ncurses-devel libpcap-devel
 
-DebianÉÏ°²×°ËùĞèÒÀÀµ°ü£º
+Debianä¸Šå®‰è£…æ‰€éœ€ä¾èµ–åŒ…ï¼š
 
 apt-get install flex byacc  libpcap0.8 libncurses5
 
 
-ÏÂÔØ: 
+ä¸‹è½½: 
 
 wget http://www.ex-parrot.com/pdw/iftop/download/iftop-0.17.tar.gz
  
