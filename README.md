@@ -8,7 +8,7 @@ yum install flex byacc  libpcap ncurses ncurses-devel libpcap-devel
 
 Debian上安装所需依赖包：
 
-apt-get install flex byacc  libpcap0.8 libncurses5
+apt-get install flex byacc libpcap0.8 libpcap0.8-dev libncurses5
 
 
 下载和编译安装: 
