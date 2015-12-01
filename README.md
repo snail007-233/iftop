@@ -15,7 +15,7 @@ apt-get install flex byacc  libpcap0.8 libncurses5
 
 wget https://github.com/snail007/iftop/blob/master/iftop-1.0pre4.tar.gz?raw=true
  
-tar zxvf iftop-1.0pre4.tar.gz
+tar zxfv iftop-1.0pre4.tar.gz\?raw\=true
  
 cd iftop-1.0pre4
  
