@@ -11,13 +11,13 @@ Debian上安装所需依赖包：
 apt-get install flex byacc  libpcap0.8 libncurses5
 
 
-下载: 
+下载和编译安装: 
 
-wget http://www.ex-parrot.com/pdw/iftop/download/iftop-0.17.tar.gz
+wget https://github.com/snail007/iftop/blob/master/iftop-1.0pre4.tar.gz?raw=true
  
-tar zxvf iftop-0.17.tar.gz
+tar zxvf iftop-1.0pre4.tar.gz
  
-cd iftop-0.17
+cd iftop-1.0pre4
  
 ./configure
  
